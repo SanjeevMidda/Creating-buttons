@@ -1,0 +1,22 @@
+.one {
+    background-color: blue;
+    color: cornsilk;
+    border: none;
+    text-align: center;
+    width: 400px;
+    height:400px;
+    font-size: 30px;
+    border-radius: 30px;
+}
+
+.two {
+    background-color: rgb(255, 192, 199);
+    color: cornsilk;
+    border: none;
+    text-align: center;
+    width: 400px;
+    height:200px;
+    font-size: 30px;
+    border-radius: 100px;
+    
+}
